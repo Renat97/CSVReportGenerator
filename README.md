@@ -1,2 +1,2 @@
-# CSVReportGenerator
+# Multistep Checkout
 Challenge 2
